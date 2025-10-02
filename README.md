@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Trần Thị Thanh Phương</h1>
-<h3 align="center">
+<h2 align="center">Hi 👋, I'm Trần Thị Thanh Phương</h1>
+
+<p align="left" style="font-size:14px; font-weight:normal;">
 3rd-year IT student at Danang University of Science and Technology, eager to sharpen programming skills and apply knowledge to real-world projects. Open to learning, challenges, and new technologies to grow as a developer.
-</h3>
+</p>
 
 ---
 
