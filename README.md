@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trần Thị Thanh Phương</h1>
-<h3 align="center">3rd-year Information Technology Student at Danang University of Science and Technology</h3>
-
----
-
-##  About Me
--  I’m currently a **3rd-year IT student** at DUT (University of Science and Technology – The University of Danang)  
--  Passionate about **software engineering, web technologies, and exploring IoT**  
--  Constantly learning and improving my coding & problem-solving skills  
--  Looking for opportunities to join **internship programs** and gain real-world experience  
+<h3 align="center">
+3rd-year IT student at Danang University of Science and Technology, eager to sharpen programming skills and apply knowledge to real-world projects. Open to learning, challenges, and new technologies to grow as a developer.
+</h3>
 
 ---
 
@@ -51,6 +45,3 @@
 -  Email: **phuong0968804740@gmail.com**  
 -  LinkedIn: [Thanh Phương Trần Thị](https://www.linkedin.com/in/thanh-ph%C6%B0%C6%A1ng-tr%E1%BA%A7n-th%E1%BB%8B-7a6741370)  
 -  GitHub: [phunolg](https://github.com/phunolg)  
-
----
- From [phunolg](https://github.com/phunolg)
